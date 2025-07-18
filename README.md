@@ -1,8 +1,27 @@
-# React + Vite
+# Day 16 - Smart Habit Tracker ⏱️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is Day 16 of my 30-Day React Relearning Journey. The focus of this project is to:
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🧠 Tech Stack
+
+- React (JavaScript)
+- Vite
+- Tailwind CSS
+
+---
+
+## 📸 Preview
+
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/smart-habit-tracker/main/screenshot.png)
+
+---
+
+## 🛠️ Installation & Running Locally
+
+```bash
+git clone https://github.com/Qasim-Rokeeb/smart-habit-tracker.git
+cd stopwatch-app
+npm install
+npm run dev
